@@ -1,4 +1,8 @@
-public class helena extends Napoje{
+public class Helena extends Napoje{
+    public Helena(String nazwa) {
+        super(nazwa);
+    }
+
     @Override
     int pij() {
         return 0;

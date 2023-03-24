@@ -1,4 +1,10 @@
 public class Woda extends Napoje{
+
+
+    public Woda(String nazwa) {
+        super(nazwa);
+    }
+
     @Override
     int pij() {
         return 0;

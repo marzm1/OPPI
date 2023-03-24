@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="939b461b-358d-471d-9b76-ececc8d0b1e6" name="Changes" comment="pierwszy komit">
-      <change afterPath="$PROJECT_DIR$/src/Cola.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helena.java" afterDir="false" />
+    <list default="true" id="939b461b-358d-471d-9b76-ececc8d0b1e6" name="Changes" comment="drugi komit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cola.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cola.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Napoje.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Napoje.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Woda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Woda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helena.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helena.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +45,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.editor",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -55,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679651350572</updated>
-      <workItem from="1679651352011" duration="3092000" />
+      <workItem from="1679651352011" duration="4341000" />
     </task>
     <task id="LOCAL-00001" summary="pierwszy komit">
       <created>1679651917209</created>
@@ -64,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679651917209</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="drugi komit">
+      <created>1679654494028</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679654494028</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,6 +81,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="pierwszy komit" />
-    <option name="LAST_COMMIT_MESSAGE" value="pierwszy komit" />
+    <MESSAGE value="drugi komit" />
+    <option name="LAST_COMMIT_MESSAGE" value="drugi komit" />
   </component>
 </project>
